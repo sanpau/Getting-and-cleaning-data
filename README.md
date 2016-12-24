@@ -16,7 +16,7 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The objective of this porject is to:
+The objective of this project is to:
 
 Create final dataset by merging training and test sets.
 Only the measurements on mean and standard deviation is extracted.
